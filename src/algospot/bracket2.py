@@ -2,7 +2,7 @@ def braket(xstr):
     arr = []
     for i in range(len(xstr)):
         if xstr[i] in "{([":
-            xstr.append(xstr[i])
+            arr.append(xstr[i])
         else:
             if len(arr) == 0:
                 print("NO")
@@ -20,8 +20,10 @@ def braket(xstr):
                 if not compare == "{":
                     print("NO")
                     return 0
-
-    print("YES")
+    if len(arr) == 0:
+        print("YES")
+    else:
+        print("NO")
     return 0
 
 
