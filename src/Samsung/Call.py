@@ -38,7 +38,7 @@ def solve():
                     minPeople += 1
                 break
 
-        maxPeople = int(L/K)\
+        maxPeople = int(L/K)
 
         # 전체케이스
         SQList = list(SQList[:maxPeople])
@@ -51,7 +51,7 @@ def solve():
             peopleNum -= 1
             nowTime = L - peopleNum*K
 
-            while nowTime <= 0:
+            while nowTime <= 0
 
 
 
