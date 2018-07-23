@@ -11,47 +11,20 @@ from src.StdIOTestContainer import StdIOTestContainer as T
  각 줄은 고객이 원하는 상담시간 S(K ≤ S ≤ 100)와 
 상담시간이 1분 부족할 때마다 늘어나는 불만족지수 Q(1≤ Q ≤ 3)가 공백을 두고 주어진다.
 """
-
+# 무조건 디피
 def solve():
     for _x in range(int(input())):
         NKL = input().split(" ")
-        N = int(NKL[0]) # 사람수
-        K = int(NKL[1]) # 최소상담시간
-        L = int(NKL[2]) # 근무시간
+        N_People = int(NKL[0]) # 사람수
+        K_minTime = int(NKL[1]) # 최소상담시간
+        L_totalTime = int(NKL[2]) # 근무시간
 
-        Q1 = []
-        Q2 = []
-        Q3 = []
 
         SQList = []
-        minPeople = 0
-        time = 0
-        for i in range(N):
+
+        for i in range(N_People):
             SQ = input().split(" ")
             SQList.append(SQ)
-
-        for i in range(N):
-            time += int(SQList[i][0])
-            minPeople += 1
-            if time >= L:
-                if time > L:
-                    minPeople += 1
-                break
-
-        maxPeople = int(L/K)
-
-        # 전체케이스
-        SQList = list(SQList[:maxPeople])
-        peopleNum = maxPeople
-        nowTime = L - peopleNum*K
-        point = 0
-
-        # 점수계산
-        while peopleNum >= minPeople:
-            peopleNum -= 1
-            nowTime = L - peopleNum*K
-
-            while nowTime <= 0
 
 
 
