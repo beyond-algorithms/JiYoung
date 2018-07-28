@@ -1,8 +1,23 @@
-a = "123456789"
+a = set()
+
+a.add(1)
+
+a.add(2)
+
+b = set()
+
+b.add(2)
+
+b.add(1)
 
 
-b = list(a)
+print(a)
+print(b)
 
-b.reverse()
 
-print(b[0:])
+c = []
+
+c.append(a)
+c.append(b)
+
+print(c)
