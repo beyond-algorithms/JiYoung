@@ -1,23 +1,3 @@
-a = set()
+a = ["b","br","bre","brea","break","breakf","breakfa","breakfas","breakfast","l","lu","lun","lunc","lunch","d","di","din","dinn","dinne","dinner"]
 
-a.add(1)
-
-a.add(2)
-
-b = set()
-
-b.add(2)
-
-b.add(1)
-
-
-print(a)
-print(b)
-
-
-c = []
-
-c.append(a)
-c.append(b)
-
-print(c)
+print(len(max(a)))
