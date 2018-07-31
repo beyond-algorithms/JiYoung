@@ -1,3 +1,6 @@
-a = ["b","br","bre","brea","break","breakf","breakfa","breakfas","breakfast","l","lu","lun","lunc","lunch","d","di","din","dinn","dinne","dinner"]
+a = "abcdea"
+b= "bedea"
 
-print(len(max(a)))
+
+print(a[:5])
+print(b)
