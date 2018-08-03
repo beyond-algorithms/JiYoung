@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\LeetCode">
       <UniqueIdentifier>{f849cc51-09a2-4f5f-a6ff-f49f6aacb2a6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\AlgoSpot">
+      <UniqueIdentifier>{a9a3f6d3-eb0b-42e0-b303-5318355663ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BackJoon">
+      <UniqueIdentifier>{42ff9da4-e754-4a42-ab1d-862721b298f4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode\Test.cpp">
@@ -28,6 +34,18 @@
       <Filter>소스 파일\LeetCode</Filter>
     </ClCompile>
     <ClCompile Include="LeetCode\641. Design Circular Deque.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgoSpot\Packing.cpp">
+      <Filter>소스 파일\AlgoSpot</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\11727 2×n 타일링 2.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2167 2차원 배열의 합.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode\207. Course Schedule.cpp">
       <Filter>소스 파일\LeetCode</Filter>
     </ClCompile>
   </ItemGroup>
