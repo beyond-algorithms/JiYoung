@@ -1,6 +1,5 @@
-a = "abcdea"
-b= "bedea"
+a = input().split(" ")
 
+b = list(int(a))
 
-print(a[:5])
 print(b)
