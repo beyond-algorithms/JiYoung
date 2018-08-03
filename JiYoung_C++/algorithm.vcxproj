@@ -19,6 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AlgoSpot\Packing.cpp" />
+    <ClCompile Include="Backjoon\11727 2×n 타일링 2.cpp" />
+    <ClCompile Include="Backjoon\2167 2차원 배열의 합.cpp" />
+    <ClCompile Include="LeetCode\207. Course Schedule.cpp" />
     <ClCompile Include="LeetCode\307. Range Sum Query - Mutable.cpp" />
     <ClCompile Include="LeetCode\641. Design Circular Deque.cpp" />
     <ClCompile Include="LeetCode\687. Longest Univalue Path.cpp" />
