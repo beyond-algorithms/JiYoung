@@ -6,29 +6,37 @@
 //#include <iostream>
 //using namespace std;
 //
-//typedef struct _Person {
-//	char* ptr3;
-//	int integer;
-//	_Person() : ptr3(NULL), integer(3) {
-//		cout << "와우" << endl;
-//	}
-//} Person;
 //
+//
+//void testrecursive(vector<int>& test, int count, int index) {
+//	test[index] = 100;
+//	cout << count << endl;
+//	if (count == 2) {
+//		test[3] = 9;
+//		for (int i = 0; i < test.size(); i++) {
+//			cout << test[i] << " ";
+//		}
+//		cout << "먼저겠지"<<endl;
+//		return;
+//	}
+//
+//	testrecursive(test, count + 1, index+1);
+//	
+//	for (int i = 0; i < test.size(); i++) {
+//		cout << test[i] << " ";
+//	}
+//	cout << endl;
+//}
 //
 //int main() {
 //
-//	Person person[10];
-//	Person* p[10];
+//	vector<int> testvec;
+//	testvec.push_back(2);
+//	testvec.push_back(4);
+//	testvec.push_back(6);
+//	testvec.push_back(8);
 //
-//	for (int i = 0; i < 10; i++) {
-//		p[i] = &person[i];
-//		printf("%d\n", p[i]->integer);
-//	}
-//	cout << endl;
-//	int k = 4;
-//	int* pp = &k;
-//	int** ppp = &pp;
 //
-//	printf("%d\n", **ppp);
+//	testrecursive(testvec, 0, 0);
 //	return 0;
 //}

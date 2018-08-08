@@ -48,5 +48,44 @@
     <ClCompile Include="LeetCode\207. Course Schedule.cpp">
       <Filter>소스 파일\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="Backjoon\11726 2×n 타일링.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2698 인접한 비트의 개수.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2822 점수 계산.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\7563 쥐 공격.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1065 한수.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2309 일곱 난쟁이.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1182 부분집합의 합.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\6603 로또.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1966 프린터 큐.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\14502 연구소.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\7568 덩치.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2231 분해합.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\14500 테트로미노.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
