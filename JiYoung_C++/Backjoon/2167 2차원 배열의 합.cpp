@@ -6,12 +6,12 @@
 다음 K개의 줄에는 네 개의 정수로 i, j, x, y가 주어진다(i ≤ x, j ≤ y).*/
 
 
-#include <iostream>
-#include <cstdio>
-#include <vector>
-using namespace std;
-
-int rowSum[301];
+//#include <iostream>
+//#include <cstdio>
+//#include <vector>
+//using namespace std;
+//
+//int rowSum[301];
 
 //int main() {
 //	int N, M;

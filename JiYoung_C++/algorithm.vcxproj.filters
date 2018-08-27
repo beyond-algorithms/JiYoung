@@ -87,5 +87,41 @@
     <ClCompile Include="Backjoon\14500 테트로미노.cpp">
       <Filter>소스 파일\BackJoon</Filter>
     </ClCompile>
+    <ClCompile Include="Backjoon\2858 기숙사 바닥.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1748 수 이어 쓰기 1.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\10448 유레카 이론.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1120 문자열.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\3671 산업 스파이의 편지.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\12100 2048 (Easy).cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2503 숫자 야구.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1213 팰린드롬 만들기.cpp">
+      <Filter>소스 파일\BackJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode\1. Two Sum.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode\3. Longest Substring Without Repeating Characters.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="3. Longest Substring Without Repeating Characters.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode\4. Median of Two Sorted Arrays.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
