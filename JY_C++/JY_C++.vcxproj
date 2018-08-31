@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LeetCode\513. Find Bottom Left Tree Value.cpp" />
     <ClCompile Include="LeetCode\559. Maximum Depth of N-ary Tree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

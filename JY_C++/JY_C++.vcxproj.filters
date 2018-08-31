@@ -21,5 +21,8 @@
     <ClCompile Include="LeetCode\559. Maximum Depth of N-ary Tree.cpp">
       <Filter>소스 파일\LeetCode</Filter>
     </ClCompile>
+    <ClCompile Include="LeetCode\513. Find Bottom Left Tree Value.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
