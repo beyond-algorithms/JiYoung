@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\LeetCode">
       <UniqueIdentifier>{adc69ca4-bbef-4eb7-8542-849df05c8bb3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Kakao">
+      <UniqueIdentifier>{3151a799-c611-426e-b93c-b83dbb527b1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Backjoon">
+      <UniqueIdentifier>{624e9725-174e-4dbd-8fcc-d3ccb4576a17}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode\559. Maximum Depth of N-ary Tree.cpp">
@@ -23,6 +29,36 @@
     </ClCompile>
     <ClCompile Include="LeetCode\513. Find Bottom Left Tree Value.cpp">
       <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Kakao\무지의 먹방 라이브.cpp">
+      <Filter>소스 파일\Kakao</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode\Path Sum III.cpp">
+      <Filter>소스 파일\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2110 공유기 설치.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\10815 숫자카드.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\2343 기타레슨.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1300 K번째수.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1316 그룹단어체커.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1236 성지키기.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1337 올바른배열.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Backjoon\1019 책페이지.cpp">
+      <Filter>소스 파일\Backjoon</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -139,8 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Backjoon\1019 책페이지.cpp" />
+    <ClCompile Include="Backjoon\10815 숫자카드.cpp" />
+    <ClCompile Include="Backjoon\1236 성지키기.cpp" />
+    <ClCompile Include="Backjoon\1300 K번째수.cpp" />
+    <ClCompile Include="Backjoon\1316 그룹단어체커.cpp" />
+    <ClCompile Include="Backjoon\1337 올바른배열.cpp" />
+    <ClCompile Include="Backjoon\2110 공유기 설치.cpp" />
+    <ClCompile Include="Backjoon\2343 기타레슨.cpp" />
+    <ClCompile Include="Kakao\무지의 먹방 라이브.cpp" />
     <ClCompile Include="LeetCode\513. Find Bottom Left Tree Value.cpp" />
     <ClCompile Include="LeetCode\559. Maximum Depth of N-ary Tree.cpp" />
+    <ClCompile Include="LeetCode\Path Sum III.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
