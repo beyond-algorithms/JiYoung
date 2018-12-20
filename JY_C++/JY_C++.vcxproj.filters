@@ -16,11 +16,16 @@
     <Filter Include="소스 파일\LeetCode">
       <UniqueIdentifier>{adc69ca4-bbef-4eb7-8542-849df05c8bb3}</UniqueIdentifier>
     </Filter>
+<<<<<<< HEAD
     <Filter Include="소스 파일\Kakao">
       <UniqueIdentifier>{3151a799-c611-426e-b93c-b83dbb527b1a}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Backjoon">
       <UniqueIdentifier>{624e9725-174e-4dbd-8fcc-d3ccb4576a17}</UniqueIdentifier>
+=======
+    <Filter Include="소스 파일\Programmers">
+      <UniqueIdentifier>{f07ddcc1-9217-405e-a0cb-a685344bdb07}</UniqueIdentifier>
+>>>>>>> b26c8cd9fa6a9b280bebb4e5258c1006a9bf59ff
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -30,6 +35,7 @@
     <ClCompile Include="LeetCode\513. Find Bottom Left Tree Value.cpp">
       <Filter>소스 파일\LeetCode</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Kakao\무지의 먹방 라이브.cpp">
       <Filter>소스 파일\Kakao</Filter>
     </ClCompile>
@@ -59,6 +65,13 @@
     </ClCompile>
     <ClCompile Include="Backjoon\1019 책페이지.cpp">
       <Filter>소스 파일\Backjoon</Filter>
+=======
+    <ClCompile Include="Programmers\더 맵게.cpp">
+      <Filter>소스 파일\Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\라면공장.cpp">
+      <Filter>소스 파일\Programmers</Filter>
+>>>>>>> b26c8cd9fa6a9b280bebb4e5258c1006a9bf59ff
     </ClCompile>
   </ItemGroup>
 </Project>

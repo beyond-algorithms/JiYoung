@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿  1337 올바른배열.cpp
 c:\users\romak\desktop\jiyoung\jy_c++\backjoon\1337 올바른배열.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   JY_C++.vcxproj -> C:\Users\romak\Desktop\Jiyoung\JY_C++\Debug\JY_C++.exe
+=======
+﻿  라면공장.cpp
+c:\users\jy\desktop\jiyoung\jy_c++\programmers\라면공장.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  JY_C++.vcxproj -> C:\Users\JY\Desktop\Jiyoung\JY_C++\Debug\JY_C++.exe
+>>>>>>> b26c8cd9fa6a9b280bebb4e5258c1006a9bf59ff
